@@ -1,2 +1,2 @@
 # hechao_homepage
-website
+This is hechao's academic website
